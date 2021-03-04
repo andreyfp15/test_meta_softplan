@@ -1,0 +1,8 @@
+C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.Domain\bin\Debug\netcoreapp3.1\TestMetaSoftplan.Domain.deps.json
+C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.Domain\bin\Debug\netcoreapp3.1\TestMetaSoftplan.Domain.dll
+C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.Domain\bin\Debug\netcoreapp3.1\TestMetaSoftplan.Domain.pdb
+C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.Domain\obj\Debug\netcoreapp3.1\TestMetaSoftplan.Domain.AssemblyInfoInputs.cache
+C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.Domain\obj\Debug\netcoreapp3.1\TestMetaSoftplan.Domain.AssemblyInfo.cs
+C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.Domain\obj\Debug\netcoreapp3.1\TestMetaSoftplan.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.Domain\obj\Debug\netcoreapp3.1\TestMetaSoftplan.Domain.dll
+C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.Domain\obj\Debug\netcoreapp3.1\TestMetaSoftplan.Domain.pdb

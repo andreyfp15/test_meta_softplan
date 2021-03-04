@@ -7,12 +7,17 @@ C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan
 C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\bin\Debug\netcoreapp3.1\TestMetaSoftplan.API01.runtimeconfig.dev.json
 C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\bin\Debug\netcoreapp3.1\TestMetaSoftplan.API01.dll
 C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\bin\Debug\netcoreapp3.1\TestMetaSoftplan.API01.pdb
+C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\bin\Debug\netcoreapp3.1\TestMetaSoftplan.Domain.dll
 C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\bin\Debug\netcoreapp3.1\TestMetaSoftplan.Domain.pdb
 C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\obj\Debug\netcoreapp3.1\TestMetaSoftplan.API01.csprojAssemblyReference.cache
 C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\obj\Debug\netcoreapp3.1\TestMetaSoftplan.API01.AssemblyInfoInputs.cache
 C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\obj\Debug\netcoreapp3.1\TestMetaSoftplan.API01.AssemblyInfo.cs
 C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\obj\Debug\netcoreapp3.1\TestMetaSoftplan.API01.csproj.CoreCompileInputs.cache
+C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\obj\Debug\netcoreapp3.1\TestMetaSoftplan.API01.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\obj\Debug\netcoreapp3.1\TestMetaSoftplan.API01.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\obj\Debug\netcoreapp3.1\TestMetaSoftplan.API01.RazorTargetAssemblyInfo.cache
 C:\Users\Smart\Source\Repos\test_meta_softplan\TestMetaSoftplan\TestMetaSoftplan.API01\obj\Debug\netcoreapp3.1\TestMetaSoftplan.API01.csproj.CopyComplete

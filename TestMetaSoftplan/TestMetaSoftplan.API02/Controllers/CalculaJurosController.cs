@@ -10,7 +10,7 @@ namespace TestMetaSoftplan.API02.Controllers
     [Route("[controller]")]
     public class CalculaJurosController : ControllerBase
     {
-        [HttpGet("{initialvalue}/{months}")]
+        [HttpGet("{initialValue}/{months}")]
         public string Get(int initialValue, int months)
         {
             var fees = 0m;

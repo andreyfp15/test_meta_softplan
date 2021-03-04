@@ -20,7 +20,9 @@ $ git clone <https://github.com/andreyfp15/test_meta_softplan.git>
 
 # Rodando as APIs
   Selecione com o botão direito do mouse a solução, clique em Properties(Propriedades) e selecione os projetos API01 e API02 para inicializar.
+  
   A API01 está configurada para abrir na porta 44369 no endpoint taxajuros: http://localhost:44396/taxajuros caso queira visualizar o Swagger acessar http://localhost:44396
+  
   A API02 está configurada para abrir na porta 44302 no endpoint calculajuros/100/5 : http://localhost:44302/calculajuros/100/5 caso queira visualizar o Swagger acessar http://localhost:44302
   
   
